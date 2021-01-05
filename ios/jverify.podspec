@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'JCore', '2.3.0-noidfa'
-  s.dependency 'JVerification', :git => "https://github.com/SSBun/JVerification.git", :tag => '1.3'
+  s.dependency 'JVerification-noidfa', '2.6.7'
   s.ios.deployment_target = '8.0'
   s.static_framework = true
 end
